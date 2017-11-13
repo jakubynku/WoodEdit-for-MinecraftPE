@@ -70,6 +70,8 @@ Long press with the wooden pickaxe on the block resets the selection (pressed bl
 
 Can be used to fast, three-tap construct of walls, ceilings, floors, whole large cuboid regions  etc. 
 
+<h2>Predefined commands</h2>
+
 <h3>/undo</h3>
 
 Undoes last wooden tool operation results. This is only one level undo!
