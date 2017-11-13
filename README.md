@@ -1,6 +1,8 @@
 # WoodEdit-for-MinecraftPE
 Extension script for fast and commandless world edit in Minecraft Pocket Edition (requires BlockLaucher)
 
+<h2>Introduction</h2>
+
 This script is inspired by Worldedit PE (Android) script for BlockLauncher (http://mcpedl.com/worldedit-pe/). Despite Worldedit has many helpfull features, it is based on entering text commands, wich is quite uncomfortable when you play Minecraft on phones or tablets.
 
 Instead of using text commands, this script is based on using wooden tools:
@@ -20,3 +22,5 @@ There are also three text commands implemented:
 <b>/undo</b> - for undo last wooden tool operation<br/>
 <b>/save [filename]</b> - for save selected cuboid into local file<br/>
 <b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations
+
+<h2>Tool reference</h2>
