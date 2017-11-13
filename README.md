@@ -84,7 +84,7 @@ Saves selected cuboid stored in clipboard to the file on the local storage. If f
 
 Loads cuboid stored in file into the clipboard for further operations (like copy (Wooden Shovel), move (Wooden Hoe) or rotate (Wooden Axe))
 
-<h2>Other informactions</h2>
+<h2>Other informations</h2>
 
 <b>Remember:</b> 
 - Changing tool between Stick, Wooden Sword or Wooden Pickaxe always clears Your selection!
