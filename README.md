@@ -7,16 +7,16 @@ Instead of using text commands, this script is based on using wooden tools:
 
 <b>Stick</b> - for selecting cuboids
 
-<b>Wooden Shovel</b> - for copying selected cuboid into new place
-<b>Wooden Axe</b> - for rotate selected cuboid and paste it into new place
-<b>Wooden Hoe</b> - for move selected cuboid into new place
+<b>Wooden Shovel</b> - for copying selected cuboid into new place<br/>
+<b>Wooden Axe</b> - for rotate selected cuboid and paste it into new place<br/>
+<b>Wooden Hoe</b> - for move selected cuboid into new place<br/>
 <b>Fishing Rod</b> - for replace certain block to another inside selected cuboid
 
-<b>Wooden Sword</b> - for clear selected cuboid (fill with Air)
+<b>Wooden Sword</b> - for clear selected cuboid (fill with Air)<br/>
 <b>Wooden Pickaxe</b> - for fill selected cuboid by certaind block
 
 There are also three text commands implemented:
 
-<b>/undo</b> - for undo last wooden tool operation
-<b>/save [filename]</b> - for save selected cuboid into local file
+<b>/undo</b> - for undo last wooden tool operation<br/>
+<b>/save [filename]</b> - for save selected cuboid into local file<br/>
 <b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations
