@@ -56,7 +56,7 @@ Used for replace all blocks of certain type with another (in selected cuboid). F
 
 <h3>Wooden Sword</h3>
 
-Used to clear selected cuboid, <b>but works independend of the Stick selection!</b>. First two taps on the two blocks with the wooden sword creates a selection to clear - script construct a cuboid, wich oposite corners are at selected block locations. Third tap clears the selection.
+Used to clear selected cuboid, <b>but works independend of the Stick selection!</b> First two taps on the two blocks with the wooden sword creates a selection to clear - script construct a cuboid, wich oposite corners are at selected block locations. Third tap clears the selection.
 
 Long press with the wooden sword on the block resets the selection (pressed block becomes first selected block).
 
@@ -64,7 +64,7 @@ Can be uset to fast, three-tap remove of walls, ceilings, floors, whole large cu
 
 <h3>Wooden Pickaxe</h3>
 
-Used to clear selected cuboid, <b>but works independend of the Stick selection!</b>. First two taps on the two blocks with the wooden pickaxe creates a selection to fill - script construct a cuboid, wich oposite corners are at selected block locations. Third tap on the certain block defines a block type, wich will fill selected cuboid. 
+Used to clear selected cuboid, <b>but works independend of the Stick selection!</b> First two taps on the two blocks with the wooden pickaxe creates a selection to fill - script construct a cuboid, wich oposite corners are at selected block locations. Third tap on the certain block defines a block type, wich will fill selected cuboid. 
 
 Long press with the wooden pickaxe on the block resets the selection (pressed block becomes first selected block).
 
