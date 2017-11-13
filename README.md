@@ -7,7 +7,7 @@ Instead of using text commands, this script is based on using wooden tools:
 
 Stick - for selecting cuboids
 
-Wooden Shovel - for copying selected cuboid into new place
+<b>Wooden Shovel</b> - for copying selected cuboid into new place
 Wooden Axe - for rotate selected cuboid and paste it into new place
 Wooden Hoe - for move selected cuboid into new place
 Fishing Rod - for replace certain block to another inside selected cuboid
