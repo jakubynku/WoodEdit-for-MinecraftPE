@@ -5,18 +5,18 @@ This script is inspired by Worldedit PE (Android) script for BlockLauncher (http
 
 Instead of using text commands, this script is based on using wooden tools:
 
-Stick - for selecting cuboids
+<b>Stick</b> - for selecting cuboids
 
 <b>Wooden Shovel</b> - for copying selected cuboid into new place
-Wooden Axe - for rotate selected cuboid and paste it into new place
-Wooden Hoe - for move selected cuboid into new place
-Fishing Rod - for replace certain block to another inside selected cuboid
+<b>Wooden Axe</b> - for rotate selected cuboid and paste it into new place
+<b>Wooden Hoe</b> - for move selected cuboid into new place
+<b>Fishing Rod</b> - for replace certain block to another inside selected cuboid
 
-Wooden Sword - for clear selected cuboid (fill with Air)
-Wooden Pickaxe - for fill selected cuboid by certaind block
+<b>Wooden Sword</b> - for clear selected cuboid (fill with Air)
+<b>Wooden Pickaxe</b> - for fill selected cuboid by certaind block
 
 There are also three text commands implemented:
 
-/undo - for undo last wooden tool operation
-/save [filename] - for save selected cuboid into local file
-/load [filename] - for load local file data into clipboard for further copy / rotate operations
+<b>/undo</b> - for undo last wooden tool operation
+<b>/save [filename]</b> - for save selected cuboid into local file
+<b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations
