@@ -11,7 +11,7 @@ Instead of using text commands, this script is based on using wooden tools:
 
 <b>Wooden Shovel</b> - for copying selected cuboid into new place<br/>
 <b>Wooden Hoe</b> - for move selected cuboid into new place<br/>
-<b>Wooden Axe</b> - for rotate selected cuboid and paste it into new place<br/>
+<b>Wooden Axe</b> - for rotate selected cuboid around Y axis<br/>
 <b>Fishing Rod</b> - for replace certain block to another inside selected cuboid
 
 <b>Wooden Sword</b> - for clear selected cuboid (fill with Air)<br/>
@@ -48,7 +48,7 @@ Places a cuboid from clipboard into the world and clears the original location (
 
 <h3>Wooden Axe</h3>
 
-Places a cuboid from clipboard into the world, but first rotates it around Y axis. All rest is like working with wooden shovel.
+Rotates a selected cuboid around Y axis clockwise. 
 
 <h3>Fishing Rod</h3>
 
