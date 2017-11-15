@@ -11,7 +11,7 @@ Instead of using text commands, this script is based on using wooden tools:
 
 <b>Wooden Shovel</b> - for copying selected cuboid into new place<br/>
 <b>Wooden Hoe</b> - for move selected cuboid into new place<br/>
-<b>Wooden Axe</b> - for rotate selected cuboid around Y axis<br/>
+<b>Wooden Axe</b> - for rotate selected cuboid around one of three axis<br/>
 <b>Fishing Rod</b> - for replace certain block to another inside selected cuboid
 
 <b>Wooden Sword</b> - for clear selected cuboid (fill with Air)<br/>
@@ -48,7 +48,9 @@ Places a cuboid from clipboard into the world and clears the original location (
 
 <h3>Wooden Axe</h3>
 
-Rotates a selected cuboid around Y axis clockwise. 
+Rotates a selected cuboid around one of three axis. Tap rotates cuboid clockwise, long press rotates cuboid counter clockwise. Rotation is always done around first selected block  with Wooden Stick (start of selection).
+
+To determine one of three axis aroud of which rotation will occur, script analizes virtual line between player position and start of selection block. Then closest axis to this line is selected.
 
 <h3>Fishing Rod</h3>
 
@@ -60,7 +62,7 @@ Used to clear selected cuboid, <b>but works independend of the Stick selection!<
 
 Long press with the wooden sword on the block resets the selection (pressed block becomes first selected block).
 
-Can be uset to fast, three-tap remove of walls, ceilings, floors, whole large cuboid regions etc.
+Can be used to fast, three-tap remove of walls, ceilings, floors, whole large cuboid regions etc.
 
 <h3>Wooden Pickaxe</h3>
 
