@@ -48,9 +48,9 @@ Places a cuboid from clipboard into the world and clears the original location (
 
 <h3>Wooden Axe</h3>
 
-Rotates a selected cuboid around one of three axis. Tap rotates cuboid clockwise, long press rotates cuboid counter clockwise. Rotation is always done around first selected block  with Wooden Stick (start of selection).
+Rotates a selected cuboid around one of three axis. Short tap rotates cuboid clockwise, long press rotates cuboid counter clockwise. Rotation is always done around <b>starting point</b> of selection done with Wooden Stick.
 
-To determine one of three axis aroud of which rotation will occur, script analizes virtual line between player position and start of selection block. Then closest axis to this line is selected.
+To determine one of three axis aroud of which rotation will occur, script analizes virtual line between player position and <b>starting point</b> of selection. Then closest axis to this line is selected.
 
 <h3>Fishing Rod</h3>
 
