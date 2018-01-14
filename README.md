@@ -22,6 +22,7 @@ There are also three text commands implemented:
 <b>/undo</b> - for undo last wooden tool operation<br/>
 <b>/save [filename]</b> - for save selected cuboid into local file<br/>
 <b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations
+<b>/replace [fromId] [toId]</b> - for replace all certain blocks type in selected cuboid to another
 
 <h2>Tool reference</h2>
 
@@ -85,6 +86,10 @@ Saves selected cuboid stored in clipboard to the file on the local storage. If f
 <h3>/load [filename]</h3>
 
 Loads cuboid stored in file into the clipboard for further operations (like copy (Wooden Shovel), move (Wooden Hoe) or rotate (Wooden Axe))
+
+<h3>/replace [fromId] [toId]</h3>
+
+Replaces all blocks of certain Id (determined by [fromId] parameter) to another type of block ([toId] parameter) in selected cuboid. For example: "/replace 1 2" replaces all stone blocks to grass blocks. Minecraft block id list can be found here: https://minecraft-ids.grahamedgecombe.com/
 
 <h2>Other informations</h2>
 
