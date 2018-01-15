@@ -1,3 +1,10 @@
+/* ===================================================================================
+   WoodEdit for MinecraftPE v1.0
+   Extension script for fast and commandless world edit in Minecraft Pocket Edition	
+   Project website: https://github.com/jakubynku/WoodEdit-for-MinecraftPE	
+   This script is copyrighted to jakubynku (MIT License)	
+   =================================================================================== */
+
 /* ================================ TOOLS CONFIGURATION ============================== */
 var tool_select	= 280;	// Stick (kijek)
 var tool_clear	= 268;	// Wooden Sword (miecz)
