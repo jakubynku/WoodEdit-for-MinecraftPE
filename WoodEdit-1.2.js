@@ -1,4 +1,11 @@
-/* ================================ SAVE & LOAD LOCATION ============================== */
+/* ===================================================================================
+   WoodEdit for MinecraftPE v1.2
+   Extension script for fast and commandless world edit in Minecraft Pocket Edition	
+   Project website: https://github.com/jakubynku/WoodEdit-for-MinecraftPE	
+   This script is copyrighted to jakubynku (MIT License)	
+   =================================================================================== */
+
+/* ================================ SAVE & LOAD LOCATION ============================= */
 var savePath = android.os.Environment.getExternalStorageDirectory().getPath() + "/games/com.mojang/saves/";
 
 /* ================================ TOOLS CONFIGURATION ============================== */
