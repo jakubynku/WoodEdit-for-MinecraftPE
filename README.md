@@ -21,7 +21,7 @@ There are also three text commands implemented:
 
 <b>/undo</b> - for undo last wooden tool operation<br/>
 <b>/save [filename]</b> - for save selected cuboid into local file<br/>
-<b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations
+<b>/load [filename]</b> - for load local file data into clipboard for further copy / rotate operations<br/>
 <b>/replace [fromId] [toId]</b> - for replace all certain blocks type in selected cuboid to another
 
 <h2>Tool reference</h2>
