@@ -1,8 +1,12 @@
 /* ===================================================================================
    WoodEdit for MinecraftPE v1.1
-   Extension script for fast and commandless world edit in Minecraft Pocket Edition	
-   Project website: https://github.com/jakubynku/WoodEdit-for-MinecraftPE	
-   This script is copyrighted to jakubynku (MIT License)	
+   Extension script for fast and commandless world edit in Minecraft Pocket Edition
+   
+   Project website: https://github.com/jakubynku/WoodEdit-for-MinecraftPE
+   This script is copyrighted to jakubynku[at_sign]poczta.onet.pl (MIT License)
+   
+   Requirements: BlockLauncher 
+   (https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher)	
    =================================================================================== */
 
 /* ================================ TOOLS CONFIGURATION ============================== */
